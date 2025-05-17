@@ -27,8 +27,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Teckas-Technologies/agentify-new-ui.git
-cd agentify-new-ui
+git clone https://github.com/Agentify-Foundation/agentify-frontend.git
+cd agentify-frontend
 ```
 
 ### 2. Install Dependencies
@@ -71,7 +71,7 @@ Create a `.env` file and add required API keys (OpenAI, Alchemy/RPCs, Privy, etc
 ## Contributors
 
 [![Follow Us](https://img.shields.io/badge/Follow-Agentify-blue?style=social\&logo=twitter)](https://x.com/agentifyxyz)
-[![Organization](https://img.shields.io/badge/Powered%20By-Teckas%20Technologies-green)](https://www.teckastechnologies.com/)
+<!-- [![Organization](https://img.shields.io/badge/Powered%20By-Teckas%20Technologies-green)](https://www.teckastechnologies.com/) -->
 
 ## License
 
